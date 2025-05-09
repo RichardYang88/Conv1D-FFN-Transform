@@ -1,0 +1,9 @@
+matplotlib==3.2.1
+pandas
+requests
+scikit-learn
+tensorflow
+tensorflow-addons
+PyTorch
+NumPy
+matplotlib
